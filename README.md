@@ -1,5 +1,6 @@
 This is a school project. 
-Our group decided to predict Brent oil spot price, and make a product out of it.
+Our group decided to predict Brent oil and Gold spot price, and make a product out of it. My main contribution was in the oil price prediction
+
 Read "processing df" first, 
 then "LSTM", 
 then "Portfolio Management"
